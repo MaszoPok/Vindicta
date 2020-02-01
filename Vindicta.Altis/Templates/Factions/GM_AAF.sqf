@@ -62,7 +62,7 @@ _veh set [T_VEH_car_armed, ["gmx_aaf_iltis_milan_wdl"]];
 _veh set [T_VEH_MRAP_unarmed, ["I_MRAP_03_F"]];
 _veh set [T_VEH_MRAP_HMG, ["I_MRAP_03_hmg_F"]];
 _veh set [T_VEH_MRAP_GMG, ["I_MRAP_03_gmg_F", "gmx_aaf_fuchsa0_reconnaissance_wdl"]];
-_veh set [T_VEH_IFV, ["I_APC_tracked_03_cannon_F", "I_LT_01_AT_F", "I_LT_01_cannon_F", "gmx_aaf_m113a2dk_wdl]];
+_veh set [T_VEH_IFV, ["I_APC_tracked_03_cannon_F", "I_LT_01_AT_F", "I_LT_01_cannon_F", "gmx_aaf_m113a2dk_wdl"]];
 _veh set [T_VEH_APC, ["I_APC_Wheeled_03_cannon_F", "gmx_aaf_m113a1g_apc_wdl", "gmx_aaf_m113a1g_apc_milan_wdl"]];
 _veh set [T_VEH_MBT, ["I_MBT_03_cannon_F", "gmx_aaf_leopard1a1a1_wdl", "gmx_aaf_leopard1a3_wdl"]];
 _veh set [T_VEH_MRLS, ["I_Truck_02_MRL_F"]];
